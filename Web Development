@@ -1,0 +1,46 @@
+<html>
+    <style>
+        head{
+            color:blueviolet
+            font; size:70px;
+            text-align: center;
+        }
+        title{
+            text-align: center;
+        }
+    </style>
+<head style="line-height: 1;">
+    <u>
+Web Development and Programming
+</u>
+</head>
+<title style="line-height: 1;">
+    
+    <b>
+        Coding Workshop
+    </b>
+</title>
+<style>
+    button{
+        text-decoration: blueviolet;
+        text-align: center;
+        align-content: center;
+        border: groove;
+        line-height:0.7;
+    }
+    
+    
+</style>
+<button type="button">Apply Now</button>
+<ul>
+    <li style="color: blue;"><u>Maseno University</u></li>
+    <li style="color: red;"><u>Maseno University Elearning Platforms</u></li>
+    <li style="color: green;"><u>Maseno University Programs</u></li>
+</ul>
+<hr style="line-height: 0.7;">
+<h1 style="text-align: center;text-transform:bold;">
+</h1>
+
+<img stlye="align-content:center" src="img_woman.jpg"
+alt="woman coding">
+
